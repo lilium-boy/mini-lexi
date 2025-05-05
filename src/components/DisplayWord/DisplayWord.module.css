@@ -1,0 +1,32 @@
+.wordDisplay {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.hiragana {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.wordImage {
+    max-width: 200px;
+    height: auto;
+}
+
+.word {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.highlight {
+    color: red;
+}

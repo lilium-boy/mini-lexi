@@ -1,0 +1,11 @@
+{
+  "あ": [
+    { "word": "あめ", "image": "images/ame.jpg" }
+  ],
+  "い": [
+    { "word": "いぬ", "image": "images/inu.jpg" }
+  ],
+  "ん": [
+    { "word": "えんぴつ", "image": "images/enpitsu.jpg" }
+  ]
+}
