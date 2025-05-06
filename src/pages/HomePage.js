@@ -10,10 +10,11 @@ const HomePage = () => {
     const containerStyle = {
         display: 'flex',
         flexDirection: 'column',
-        alignItems: 'center',    // 水平方向の中央揃え
-        justifyContent: 'center', // 垂直方向の中央揃え
-        minHeight: '100vh',      // ビューポートの高さいっぱいに
-        padding: '20px'          // 余白を追加
+        alignItems: 'center',
+        justifyContent: 'center',
+        minHeight: '100vh',
+        padding: '20px',
+        margin: '0 auto'
     };
 
     // useCallbackを使用しない通常の関数として定義

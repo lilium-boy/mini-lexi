@@ -1,11 +1,122 @@
 {
   "あ": [
-    { "word": "あめ", "image": "images/ame.jpg" }
+    { "word": "あめ", "image": "images/ame.png" }
   ],
   "い": [
-    { "word": "いぬ", "image": "images/inu.jpg" }
+    { "word": "いぬ", "image": "images/inu.png" }
+  ],
+  "う": [
+    { "word": "うた", "image": "images/uta.png" }
+  ],
+  "え": [
+    { "word": "えほん", "image": "images/ehon.png" }
+  ],
+  "お": [
+    { "word": "おにぎり", "image": "images/onigiri.png" }
+  ],
+  "か": [
+    { "word": "かさ", "image": "images/kasa.png" }
+  ],
+  "き": [
+    { "word": "きりん", "image": "images/kirin.png" }
+  ],
+  "く": [
+    { "word": "くるま", "image": "images/kuruma.png" }
+  ],
+  "け": [
+    { "word": "けーき", "image": "images/cake.png" }
+  ],
+  "こ": [
+    { "word": "こあら", "image": "images/koara.png" }
+  ],
+  "さ": [
+    { "word": "さかな", "image": "images/sakana.png" }
+  ],
+  "し": [
+    { "word": "しまうま", "image": "images/shimauma.png" }
+  ],
+  "す": [
+    { "word": "すいか", "image": "images/suika.png" }
+  ],
+  "せ": [
+    { "word": "せんべい", "image": "images/senbei.png" }
+  ],
+  "そ": [
+    { "word": "そうじき", "image": "images/soujiki.png" }
+  ],
+  "た": [
+    { "word": "たこ", "image": "images/tako.png" }
+  ],
+  "ち": [
+    { "word": "ちゅうりっぷ", "image": "images/tulip.png" }
+  ],
+  "つ": [
+    { "word": "つみき", "image": "images/tsumiki.png" }
+  ],
+  "て": [
+    { "word": "てぶくろ", "image": "images/tebukuro.png" }
+  ],
+  "と": [
+    { "word": "とけい", "image": "images/tokei.png" }
+  ],
+  "な": [
+    { "word": "なす", "image": "images/nasu.png" }
+  ],
+  "に": [
+    { "word": "にんじん", "image": "images/ninjin.png" }
+  ],
+  "ぬ": [
+    { "word": "ぬりえ", "image": "images/nurie.png" }
+  ],
+  "ね": [
+    { "word": "ねこ", "image": "images/neko.png" }
+  ],
+  "の": [
+    { "word": "のこぎり", "image": "images/nokogiri.png"}
+  ],
+  "は": [
+    { "word": "はな", "image": "images/hana.png" }
+  ],
+  "ひ": [
+    { "word": "ひこうき", "image": "images/hikouki.png" }
+  ],
+  "ふ": [
+    { "word": "ふね", "image": "images/fune.png" }
+  ],
+  "へ": [
+    { "word": "へび", "image": "images/hebi.png" }
+  ],
+  "ほ": [
+    { "word": "ほし", "image": "images/hoshi.png" }
+  ],
+  "ま": [
+    { "word": "まくら", "image": "images/makura.png" }
+  ],
+  "み": [
+    { "word": "みかん", "image": "images/mikan.png" }
+  ],
+  "む": [
+    { "word": "むぎちゃ", "image": "images/mugicha.png" }
+  ],
+  "め": [
+    { "word": "めがね", "image": "images/megane.png" }
+  ],
+  "も": [
+    { "word": "もも", "image": "images/momo.png" }
+  ],
+  "や": [
+    { "word": "やま", "image": "images/yama.png" }
+  ],
+  "よ": [
+    { "word": "ようふく", "image": "images/youfuku.png" }
+  ],
+  "ら": [
+    { "word": "らいおん", "image": "images/lion.png" }
+  ],
+  "り": [
+    { "word": "りんご", "image": "images/ringo.png" }
   ],
   "ん": [
-    { "word": "えんぴつ", "image": "images/enpitsu.jpg" }
+    { "word": "えんぴつ", "image": "images/enpitsu.png" }
   ]
 }
